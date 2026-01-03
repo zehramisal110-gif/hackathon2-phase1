@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 TODO App - Phase 1 (AI-Driven CLI)
 Hackathon 2 - In-Memory Task Management System
@@ -169,4 +168,5 @@ def main() -> None:
 
 
 if __name__ == "__main__":
+
     main()
